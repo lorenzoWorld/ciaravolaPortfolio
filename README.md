@@ -1,5 +1,5 @@
 # ciaravolaPortfolio
-Questo repository GitHub è un portfolio personale creato da uno sviluppatore back-end per condividere il proprio lavoro e dimostrare le competenze nel campo dello sviluppo web e delle tecnologie back-end. Qui troverai una serie di progetti, snippet di codice e documentazione che illustrano le capacità e le realizzazioni dello sviluppatore.
+Questo repository GitHub è un portfolio personale creato da me per condividere il mio lavoro e dimostrare le competenze nel campo dello sviluppo web e delle tecnologie back-end. Qui troverai una serie di progetti, snippet di codice e documentazione che illustrano le capacità e le realizzazioni dello sviluppatore.
 Contenuto del Repository
 Progetti
 
@@ -24,6 +24,6 @@ Per esplorare il portfolio dello sviluppatore, puoi seguire questi passaggi:
 
 Contribuire
 
-Se sei interessato a contribuire a uno dei progetti o hai suggerimenti per migliorare il portfolio, sentiti libero di aprire una "issue" o inviare una "pull request". Lo sviluppatore apprezzerà il tuo contributo e la tua collaborazione.
+Se sei interessato a contribuire a uno dei progetti o hai suggerimenti per migliorare il portfolio, sentiti libero di aprire una "issue" o inviare una "pull request". apprezzerò il tuo contributo e la tua collaborazione.
 
-Grazie per aver visitato il portfolio dello sviluppatore back-end! Speriamo che tu possa trovare interessanti progetti e risorse utili per le tue attività di sviluppo back-end. Se hai domande o hai bisogno di ulteriori informazioni, non esitare a contattare lo sviluppatore.
+Grazie per aver visitato il mio portfolio! Speriamo che tu possa trovare interessanti progetti e risorse utili per le tue attività di sviluppo back-end. Se hai domande o hai bisogno di ulteriori informazioni, non esitare a contattarmi.
