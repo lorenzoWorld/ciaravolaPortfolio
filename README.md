@@ -9,16 +9,11 @@ Snippet di Codice
 Nella directory "snippet-di-codice", sono presenti frammenti di codice interessanti e utili sviluppati dallo sviluppatore. Questi possono essere componenti riutilizzabili, funzioni complesse o soluzioni creative a problemi specifici.
 Documentazione
 
-La directory "documentazione" contiene documenti tecnici, guide e documentazione relativa ai progetti e alle tecnologie utilizzate dallo sviluppatore. Questi documenti forniscono una visione più dettagliata dei progetti e delle competenze dello sviluppatore.
-Come Utilizzare Questo Portfolio
-
 Per esplorare il portfolio dello sviluppatore, puoi seguire questi passaggi:
 
     Esplorazione dei Progetti: Naviga nella directory "progetti" per visualizzare i vari progetti. Ciascun progetto dovrebbe includere una breve descrizione e istruzioni su come eseguirlo localmente o accedere all'applicazione (se disponibile).
 
     Snippet di Codice: Se sei interessato a frammenti di codice specifici o a soluzioni tecniche, dai un'occhiata alla directory "snippet-di-codice". Troverai codice ben commentato e pronto per essere integrato nei tuoi progetti.
-
-    Documentazione Tecnica: Per una comprensione più approfondita dei progetti e delle tecnologie utilizzate, visita la directory "documentazione". Qui troverai guide, documenti tecnici e spiegazioni dettagliate.
 
     Contattare lo Sviluppatore: Se desideri contattare lo sviluppatore per opportunità di collaborazione o ulteriori informazioni, troverai le informazioni di contatto nel file README principale del repository.
 
